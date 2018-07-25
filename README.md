@@ -12,17 +12,13 @@
 
 ###### 3. (https://blog.csdn.net/yerenyuan_pku/article/details/72721120)淘淘商城系列——SSM框架整合之表现层整合 taotao-manager-web下的springmvc.xml文件复制报错
 ###### 
-´´´
-<bean>
-        class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+###### <bean>
+######         class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 
-´´´
 ##### 改成
-´´´
-<bean
+##### <bean
         class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 
-´´´
 
 ### 简介：
 #### 最近在复习java ssm框架，就看到淘淘商城系列（https://blog.csdn.net/column/details/15737.html?&page=5） ,想着博主没有发布源码，我就一步步把我写的源码发布到github上供大家下载学习
