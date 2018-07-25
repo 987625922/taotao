@@ -12,11 +12,11 @@
 
 ###### 3. (https://blog.csdn.net/yerenyuan_pku/article/details/72721120)淘淘商城系列——SSM框架整合之表现层整合 taotao-manager-web下的springmvc.xml文件复制报错
 ###### 
-###### <bean>
-######         class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+<bean>
+        class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 
 ##### 改成
-##### <bean
+<bean
         class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 
 
