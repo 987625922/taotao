@@ -10,4 +10,4 @@
 ###### 把工程taotao-parent和taotao-manager工程右击 RUN AS -> maven install
 
 ### 简介：
-#### 最近在复习java ssm框架，就看到淘淘商城系列（https://blog.csdn.net/column/details/15737.html?&page=5）,想着博主没有发布源码，我就一步步把我写的源码发布到github上供大家下载学习
+#### 最近在复习java ssm框架，就看到淘淘商城系列（https://blog.csdn.net/column/details/15737.html?&page=5） ,想着博主没有发布源码，我就一步步把我写的源码发布到github上供大家下载学习
